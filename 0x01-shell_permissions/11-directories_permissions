@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x subdirectories
+chmod -R a+x current directory 
