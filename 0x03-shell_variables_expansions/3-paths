@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep ^d PATH | wc
+egrep ^d $PATH | wc
